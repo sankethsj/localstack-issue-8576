@@ -1,0 +1,6 @@
+boto3
+localstack
+localstack-client
+awscli
+awscli-local
+pytest

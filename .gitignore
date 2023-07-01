@@ -1,0 +1,4 @@
+.venv*
+volume*
+*__pycache__*
+.pytest*
